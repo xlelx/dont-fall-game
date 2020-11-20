@@ -86,7 +86,7 @@ There is a power bar indicating the power, so as the height of jumping on the le
 
 **Key Bindings**
 | Key | Action |
-| :---------------- | :------------------------: |
+| :---------------- | :------------------------: | 
 | Space Bar | Jump |
 | Right arrow | Move right |
 | Left arrow | Move Left |
